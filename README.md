@@ -17,4 +17,7 @@ app.serverDomainPath=http://localhost:8080/
 
 The unit test code (on UrlShortenerTest) contains a sample request and expected response of the service. 
 
+http://localhost:8080/v2/api-docs API documentation Url
+
+
 
